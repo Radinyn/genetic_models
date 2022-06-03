@@ -7,6 +7,7 @@
 ### Updates to the library
 - multiple crossover options
 - multiple activation functions
+- more ways to initialize weights and biases
 - more parameters (batches with average score)
 - giving more data to the user
 
